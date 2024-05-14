@@ -1,4 +1,4 @@
-# Python_Jupyter_demo
+# Global population growth distribution data from 1970 to 2022
 
 Data Analysis Findings:
 - Globally, the fastest population growth and highest population density are observed in the Asian region. Considering highly populated countries like China, India, and Japan are located in Asia, this data aligns with expectations.
